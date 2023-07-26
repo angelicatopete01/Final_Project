@@ -15,16 +15,5 @@ Back-end: PHP, MySQL (or any preferred database management system)
 Version Control: Git
 Contributions:
 We warmly welcome contributions from fellow developers like you! Whether it's fixing bugs, adding exciting new features, improving the user interface, or optimizing performance, your expertise will help make a difference.
+I look forward to seeing what we could develop as a community!
 
-Installation:
-
-Get started by cloning the repository to your local machine using git clone.
-Set up the database and import the initial schema using the provided SQL file.
-Configure the database connection parameters in the dbh.inc.php file.
-Deploy the application on your preferred web server or localhost environment.
-Contribution Guidelines:
-
-Fork the repository and create a new branch for your contributions.
-Implement your changes and submit a pull request to the main repository's develop branch.
-Please ensure your code follows best practices and is well-documented.
-Let's collaborate to build a robust and user-friendly Course Registration Application that benefits both educational institutions and students. Happy coding! 🚀
